@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "잼버리 2018 Jamboree",
+    "name": "패트롤잼버리 2018",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -41,7 +41,7 @@
     "google-analytics": "",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 43,
+    "uniqCompNum": 45,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -51,7 +51,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "잼버리 2018 Jamboree",
+        "title": "패트롤잼버리 2018",
         "meta_descr": "국가 잼버리 : 국가별로 개최되는 회원국 초청 국제 야영대회로서 대한민국에서는 한국잼버리와 국제패트롤잼버리를 개최",
         "header_custom": "<meta property=\"og:image\" content=\"http://오경희.tv/brand.jpg\">\n<meta property=\"og:url\" content=\"http://오경희.tv/\">",
         "footer_custom": "",
@@ -106,7 +106,7 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-o",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/background-1920x1275.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 70%;\">\n                  <div class=\"mbr-figure\">\n                      <br><br>\n                      <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                      <!-- iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/-iu6JEdhBUc\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe -->\n                  \n                 \n                  </div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"38\">패트롤잼버리&nbsp;<br><br></h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"39\">제5회 국제패트롤잼버리<br>(5th International Patrol Jamboree)&nbsp;<br>2018. 8. 2.(목) ~ 7.(화) / 5박 6일<br></p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-primary mbr-editable-button\" href=\"https://www.youtube.com/channel/UCqLyHyJNjHGIyN6rJoINNkA\" target=\"_blank\" code-editable-id=\"40\">지난 방송보기</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/background-1920x1275.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 70%;\">\n                  <div class=\"mbr-figure\">\n                      <br><br>\n                      <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n                      <!-- iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/-iu6JEdhBUc\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe -->\n                  \n                 \n                  </div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"9\">패트롤잼버리&nbsp;<br><br></h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"10\">제5회 국제패트롤잼버리<br>(5th International Patrol Jamboree)&nbsp;<br>2018. 8. 2.(목) ~ 7.(화) / 5박 6일<br></p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-primary mbr-editable-button\" href=\"https://www.youtube.com/channel/UCqLyHyJNjHGIyN6rJoINNkA\" target=\"_blank\" code-editable-id=\"11\">지난 방송보기</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "H3 {\n  color: #ffffff;\n  font-size: 24px;\n}\nP {\n  color: #ffffff;\n  font-size: 15px;\n}\n",
@@ -137,7 +137,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/profile-716x766.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-1250x1250.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -156,7 +156,7 @@
             }
           },
           "title": "제5회 국제패트롤잼버리",
-          "text": "<b>행사명</b>: 2023년 제25회 세계스카우트잼버리 유치 성공기념\n<br>제5회 국제패트롤잼버리(5th International Patrol Jamboree)\n<br><br><b>기간</b>: 2018. 8. 2.(목) ~ 7.(화) / 5박 6일\n<br>\n<br> \n<br>\n<br>○ 장소: 강원도세계잼버리수련장\n<br>\n<br> \n<br>\n<br>○ 참가대상\n<br>\n<br>- 13~18세(중·고등학교 연령층) 국내·외 스카우트 및 일반 청소년\n<br>\n<br>- 소외계층 청소년, 새터민 청소년, 다문화가정 자녀들\n<br>\n<br>- 국내·외 스카우트 지도자(운영요원 및 지도자)\n<br>\n<br> \n<br>\n<br>○ 참가규모: 40개국 6,500명\n<br>\n<br>                (국내 참가자 5,200명, 외국 참가자: 400명, 운영요원: 900명)\n<br>\n<br> \n<br>\n<br>○ 주최: 한국스카우트연맹, 강원도\n<br>\n<br> \n<br>\n<br>○ 주관: 한국스카우트연맹\n<br>\n<br> \n<br>\n<br>○ 후원: 여성가족부<b>다.</b>&nbsp;<br>\n<br>\"구위원이 되어서 무엇을 해 드리겠습니다\" 보다는&nbsp;<br>주민들의 이야기를 잘 듣고 잘 해결할 수 있도록 손과 발이 되는 것이 맞다고 생각합니다.\n<br><br>\"주민을 대변하는 오경희가 되겠습니다.\"<br><br>[<a href=\"http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020180613&amp;huboId=100125388\">선관위 후보자 정보 바로가기</a>]",
+          "text": "<b>행사명</b>: 2023년 제25회 세계스카우트잼버리 유치 성공기념\n<br>제5회 국제패트롤잼버리(5th International Patrol Jamboree)\n<br><br><b>기간</b>: 2018. 8. 2.(목) ~ 7.(화) / 5박 6일\n<br><b>장소</b>: 강원도세계잼버리수련장\n<br><b>참가규모</b>: 40개국 6,500명\n<br>(국내 참가자 5,200명, 외국 참가자: 400명, 운영요원: 900명)\n<br><b>주최</b>: 한국스카우트연맹, 강원도\n<br><b>주관</b>: 한국스카우트연맹\n<br><b>후원</b>: 여성가족부<br>\n<br>[<a href=\"https://www.scout.or.kr/BoaNotice.do\" target=\"_blank\">자세히 보기</a>]<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/wing365/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">페이스북 바로가기</a>",
           "_tags": [
             "Theme"
@@ -241,12 +241,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "wing365.com",
               "link": "index.html",
-              "title": "도전365",
-              "linkInNewWindow": false
+              "title": "도전365"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -276,12 +275,12 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -291,7 +290,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SOCIAL FEED",
-          "text": "<p>유튜브 최신 글 리스트</p>",
+          "text": "<p>페이스북으로 만나는 패트롤잼버리</p>",
           "_tags": [
             "Theme"
           ],
@@ -300,80 +299,20 @@
           "_anchor": "msg-box3-e"
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "postToLoad": 3,
-            "facebook": "ohkh68",
-            "twitter": "",
-            "google": "",
-            "youtube": "UCqLyHyJNjHGIyN6rJoINNkA",
-            "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"sk-ww-facebook-feed\" data-embed-id=\"12219\"></div>{JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
-          "_name": "feed",
-          "_anchor": "feed-9"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "4",
-            "socialFacebook": true,
-            "postsNumber": 5,
-            "socialGoogle": false,
-            "socialDisqus": false,
-            "shortName": "",
-            "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-f"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/poster-1315x1880.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "2-나 양재,내곡,우면을 위한 유일한 선택&nbsp;<br><b>오경희</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-14"
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-18",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src='https://www.sociablekit.com/app/embed/facebook-feed/widget.js'></script>"
+          ]
         },
         {
           "_params": {
@@ -388,7 +327,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 오경희",
+          "text": "Copyright (c) 2018 도전365",
           "_tags": [
             "Theme"
           ],
@@ -396,97 +335,44 @@
           "_anchor": "footer1-b"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Profile",
-          "meta": "<span style=\"font-style: normal;\">김성윤 2018. 5. 31. update</span>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-y"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "7",
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><span style=\"font-style: normal;\">언주초(52회 졸업)\r</span></blockquote><blockquote><span style=\"font-style: normal;\">은광여중(29회 졸업)\r</span></blockquote><blockquote><span style=\"font-style: normal;\">은광여고(31회 졸업)\r</span></blockquote><blockquote><span style=\"font-style: normal;\">한양여자대학 실내디자인학과 졸업\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 남영무역상사 대표\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 정당인\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 양재2동 주민자치위원회 위원\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 서초구국제교류협의회 사무국장\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 양재2동 청소년아동복지위원회 위원\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) '마을방송 서초' 소셜라이브캐스터\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 사)한국청년회의소 연수원 교수\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 서초나비코치단\r</span></blockquote><blockquote><span style=\"font-style: normal;\">현) 서초구의용소방대</span></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-z",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
-            }
-          }
-        },
-        {
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/background-1920x1275.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "collapseAll": false,
+            "tabs": "2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "Profile",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_84\" data-core=\"\" href=\"#collapseOne_84\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>주요 경력</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_84\" data-core=\"\" href=\"#collapseTwo_84\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">주요 활동</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_84\" data-core=\"\" href=\"#collapseThree_84\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p><br></p>- (1981~1994) 한국프로그램 개발연구원 원장 역임\n<div>- (1990~1993) 서울시 교육청 소속 강사\n</div><div>- (1981~2000) 한국보이스카우트 소속 강사\n</div><div>- (1985~1993) 기업체 산업훈련 전문 강사\n</div><div>- (1985~1993) 여성개발원 소속 강사\n</div><div>2004.5.5 사단법인 강사협회 명강사 8호\n</div><div>2007. 한국 청년회의소 인터넷 홍보대사 및 한국JC 인터넷 방송국 운영\n</div><div>2008. 서울시 시민기자단 인터넷 방송자키\n</div><div>2011. 5. 1인 방송국 ‘도전365’ 대표 / 1인 창조기업가\n</div><div>2015. 국민안전처 생방송 서포터즈\n</div><div>2015. 2. 소셜 라이브 방송 협동조합 이사장\n</div><div>2015 행정자치부 생방송 서포터즈\n</div><div>2016. 서울시 성동구 성동마을 방송국 대표\n</div><div>2017 실버아이TV 뉴스 기자단 위촉</div>",
+          "text2": "<p>&nbsp;방송출연 및 보도기록 및 수상\r</p><p>-2017년 연합TV 출연\r</p><p>- 2016년 5월 tbs 서울교통방송 소셜라이브방송협동조합 생방송\r</p><p>- 2016년 5월 ktv 행복한 오후 노년이 아름답다 1인 방송\r</p><p>- 2015.11. KTV 60대 방송자키 소개\r</p><p>- 2015.11. 월간지 헤이데이 (Heyday) 인생 2막 소개\r</p><p>- 2015.11. 100세 시대 60대 방송자키\r</p><p>- 2014.11. IT 활용능력 체험수기 공모전, 정보 활용 최우수상 수상\r</p><p>- 2013.01. OBS 살맛나는 세상 방송자키 출연\r</p><p>- 2012.10. KBS ‘VJ특공대’ 지역문화축제 생방송 출연\r</p><p>- 2012.03. MBC ‘TV특종 놀라운 세상’ 전국을 누비는 인생편 출연\r</p><p>- 2012.03. ‘좋은 생각’ 월간호 도전365인생\r</p><p>- 2011.12. SBS ‘생방송 투데이’ 미스터리 x파일 방송자키 출연\r</p><p>- 2011.11. EBS ‘신나는 인생 5678’ 시니어 방송자키 1, 2부 다큐 출연\r</p><p>- 2011.07. ‘머니투데이’ 뉴시니어 소개\r</p><p>- 2011.02. KTV ‘스마트코리아’ 스마트폰 방송 고수 출연\r</p><p>- 2009.10. SBS ‘아이디어 하우머치’ 1인 창조기업 출연 ‘제1호 움직이는 방송국’\r</p><p>- 2006.04. KBS ‘VJ 클럽’ 출연\r</p><p>- 2004.10. MBC 화제 집중 출연\r</p><p>- 2004.09. MBC 모닝와이드 출연\r</p><p>- 2004.09. MBC 사람 그림으로 쓰는 이야기 출연\r</p><p>- 2004.09. ITV 아이포유 5시 출연\r</p><p>- 2004.08. MBC 라디오 변창림 진행 코너 인터뷰\r</p><p>- 2003.10. YTN ‘과학과 미래’ 출연\r</p><p>- 2003.10. YTN 자동차 크릭\r</p><p>- 2003.09. KBS 2 ‘생방송 세상의 아침’ 방영\r</p><p>- 2003.08. MBC ‘뉴스 투데이’ 방송\r</p><p>- 2003.05. 목포MBC ‘아름다운 세상’ 보도\r</p><p>- 2003.05. KT사보 네스팟 홍보대사\r</p><p>- 2003.04. 코오롱 사보 ‘아름다운 세상’ 보도\r</p><p>- 2003.03. 한국JC 사보 보도\r</p><p>- 2003.01. 아리랑TV 케이블 방송\r</p><p>- 2002.11. MBC 강원 365 10분 방영\r</p><p>- 2002.11. KBS ‘피플 세상 속으로’ 15분 방영\r</p><p>- 2002.10. 시서저널 기사 출발 보도\r</p><p>- 2002.10. 경향신문 ‘도전365 현장 생방송’ 기사 보도</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header2",
-          "_anchor": "header2-16",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background\" data-rv-view=\"91\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/background-1920x1275.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell col-md-5 content-size text-xs-center text-md-right\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"23\">INTRO WITH IMAGE</h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"24\">Full screen intro with parallax image background and color overlay and a picture on right.</p>\n                            </div>\n\n                            <div class=\"mbr-section-btn\"><a class=\"btn btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"25\">MORE</a></div>\n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size\" style=\"width: 50%;\">\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/coworkers.jpg\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-17"
         }
       ]
     }
